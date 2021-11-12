@@ -1,7 +1,8 @@
 {
-    "message":"test",
+    "message":"test",//this is the msg u want to send
     "users":[
         "Sahil Jio",
-        "9666049043"
+        "1234567890"
+        //add all the contacts u need to msg here(only charecters or numbers will work no emojis plz)
     ]
 }
